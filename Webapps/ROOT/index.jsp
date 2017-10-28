@@ -1,6 +1,6 @@
 <html>
     <body>
-        <h1><% out.println("ASP.NET KR!!!"); %></h1>
+        <h1><% out.println("1327"); %></h1>
     </body>
 </html> 
         
